@@ -1,5 +1,6 @@
 # Group 1 Project 2
 # Credit Application Chatbot by: Adrian, Eric, Saiful, Shrenik and Tarang
+![chatbot-not-just-chatbot-835x400-1](https://user-images.githubusercontent.com/105663954/191622168-443eac52-823a-4f80-8cdc-385a089f5501.jpg)
 
 Our objective is to create a chatbot that can run a credit application to test credit worthiness and suggest different credit cards or loans to users
 
